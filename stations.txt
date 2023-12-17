@@ -1,0 +1,16 @@
+ClubFM UAE - 99.6|https://eu10.fastcast4u.com/clubfmuae
+All India Radio|https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8  
+Radio Mango 91.1|https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/playlist.m3u8  
+Ananthapuri FM|https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8  
+Akashvani|https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8  
+Hello Radio 90.8|https://stream.zenolive.com/taknefee3qzuv.aac  
+Radio Suno 91.7 |https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC  
+Radio Lemon|https://stream.zeno.fm/2qnbwwr7508uv  
+Radio Palakkad|https://stream.zeno.fm/qgqrxfte41zuv  
+AIR FM Rainbow (Hindi)|https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8  
+Suryan FM (Tamil)|https://radios.crabdance.com:8002/2  
+All India Radio Air (Tamil)|https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8  
+Radio City (Tamil)|https://stream.zeno.fm/cwhuuebvyc9uv  
+Radio City (Hindi)|https://prclive4.listenon.in/Hindi  
+AIR North (Hindi)|https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8  
+AIR Vividh Bharati (Hindi)|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
