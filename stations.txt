@@ -14,3 +14,4 @@ Radio City (Tamil)|https://stream.zeno.fm/cwhuuebvyc9uv
 Radio City (Hindi)|https://prclive4.listenon.in/Hindi  
 AIR North (Hindi)|https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8  
 AIR Vividh Bharati (Hindi)|https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+June FM 90.8|https://stream.zeno.fm/c2afcra6obttv
