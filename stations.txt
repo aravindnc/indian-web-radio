@@ -5,13 +5,17 @@ Radio Malayalam - Qatar|https://stream.qfmradio.qa/986fm
 Radio Media Village | https://443-1.autopo.st/183/stream
 Ananthapuri FM 101.9 |https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8  
 Radio Suno 91.7 |https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3 
+Bollywood 90s | https://stream.zeno.fm/4gfevnscvp8uv
+Aural Oldies | https://stream.zeno.fm/tksfwb1mgzzuv
+Malayalam Melodies | https://stream.zeno.fm/pbqv4u9k0k0uv
+AR Rahman Best | https://stream.zeno.fm/p7b0e3ms97zuv
+AR Rahman (Tamil)|https://stream.zeno.fm/j3cntml3iulvv
+AR Rahman 2 (Hindi)|https://stream.zeno.fm/xk3g6h1vsa0uv
 Radio Palakkad|https://stream.zeno.fm/qgqrxfte41zuv  
 All India Radio|https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8  
-AR Rahman (Tamil)|https://stream.zeno.fm/j3cntml3iulvv
 Ilayaraja (Tamil)|https://stream.zeno.fm/pwm9y3eud5zuv
 Harris Jayaraj (Tamil)|https://stream.zeno.fm/c6wdtuh1yyivv
 Arijit Singh (Hindi)|https://stream.zeno.fm/rfpf8qec94zuv
-AR Rahman 2 (Hindi)|https://stream.zeno.fm/xk3g6h1vsa0uv
 Yesudas Radio |https://stream.zeno.fm/9x1sw687nf9uv
 K S Chitra Radio|https://stream.zeno.fm/oene3zhgpnpvv
 Vidyasagar (Tamil)|https://psrlive3.listenon.in/vidyasa?station=vidyasagarradio
