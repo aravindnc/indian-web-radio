@@ -1,16 +1,24 @@
 Club FM 94.3 | https://listen.openstream.co/4635/audio
+New Age Jango | https://www.jango.com/streams/info?sid=78cf6e1bbb45da49da6ed07544041f04&stid=113263992&cb=1783279269711&url_only=false 
 Red FM 93.5 | https://stream.zeno.fm/9phrkb1e3v8uv
 Radio Mango 91.9|https://listen.openstream.co/4635/audio
 Radio Malayalam - Qatar|https://stream.qfmradio.qa/986fm
 Radio Media Village | https://443-1.autopo.st/183/stream
 Ananthapuri FM 101.9 |https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8  
 Radio Suno 91.7 |https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3 
-Bollywood 90s | https://stream.zeno.fm/4gfevnscvp8uv
 Aural Oldies | https://stream.zeno.fm/tksfwb1mgzzuv
 Malayalam Melodies | https://stream.zeno.fm/pbqv4u9k0k0uv
+90's Tamil Radio | https://stream.zeno.fm/tqnws2eafwzuv
+90’s Hindi Radio | https://stream.zeno.fm/fdgs82xkzhhvv
+90's Hindi Radio (2) | https://stream.zeno.fm/4gfevnscvp8uv
+90's Hindi Radio (3) | https://www.desizoneradio.com/relay3
 AR Rahman Best | https://stream.zeno.fm/p7b0e3ms97zuv
 AR Rahman (Tamil)|https://stream.zeno.fm/j3cntml3iulvv
 AR Rahman 2 (Hindi)|https://stream.zeno.fm/xk3g6h1vsa0uv
+Instrumental Music | https://azuracast.vibesounds.in:8030/radio.mp3
+Classic Instrumental | https://stream.zeno.fm/7fmywrmrga0uv
+New Age | https://m4a-64.jango.com/05/30/86/0530865221.m4a
+https://m4a-64.jango.com/62/68/51/626851622003071289.m4a
 Radio Palakkad|https://stream.zeno.fm/qgqrxfte41zuv  
 All India Radio|https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8  
 Ilayaraja (Tamil)|https://stream.zeno.fm/pwm9y3eud5zuv
