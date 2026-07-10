@@ -1,5 +1,4 @@
 Club FM 94.3 | https://listen.openstream.co/4635/audio
-New Age Jango | https://www.jango.com/streams/info?sid=78cf6e1bbb45da49da6ed07544041f04&stid=113263992&cb=1783279269711&url_only=false 
 Red FM 93.5 | https://stream.zeno.fm/9phrkb1e3v8uv
 Radio Mango 91.9|https://listen.openstream.co/4635/audio
 Radio Malayalam - Qatar|https://stream.qfmradio.qa/986fm
@@ -12,6 +11,7 @@ Malayalam Melodies | https://stream.zeno.fm/pbqv4u9k0k0uv
 90’s Hindi Radio | https://stream.zeno.fm/fdgs82xkzhhvv
 90's Hindi Radio (2) | https://stream.zeno.fm/4gfevnscvp8uv
 90's Hindi Radio (3) | https://www.desizoneradio.com/relay3
+Hariharan Radio | https://psrlive4.listenon.in/hari?station=hariharanradio&cb=1750146185/;stream/1
 AR Rahman Best | https://stream.zeno.fm/p7b0e3ms97zuv
 AR Rahman (Tamil)|https://stream.zeno.fm/j3cntml3iulvv
 AR Rahman 2 (Hindi)|https://stream.zeno.fm/xk3g6h1vsa0uv
